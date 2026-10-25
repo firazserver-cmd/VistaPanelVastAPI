@@ -21,6 +21,5 @@ Documentation are handled on the above portal, please go to there
 
 # Library Request Method 
 The Library uses application/x-www-form-urlencoded, as VistaPanel no longer accepts multipart/form-data, according to iFastNet Support.
-# Library
 
 ![Library Screenshot](https://screenshot-for-support.com/1792920386_0dcdd41ae7d6781264501cc082851843)
