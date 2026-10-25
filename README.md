@@ -1,4 +1,4 @@
-Update this readme
+
 # VistaPanelVastAPI
 Vista Panel Vast API is a PHP library maintained by Firaz Hosting, owned by Firaz Server, with @firazserver-cmd as the project owner. It allows hosting providers to perform VistaPanel tasks directly from their own portals.
 
