@@ -1,5 +1,9 @@
 
 # VistaPanelVastAPI
+<div align="center">
+
+<img src="VistaPanelVastAPI.png" alt="VistaPanel VAST API by Firaz Hosting" width="200px">
+</div>
 Vista Panel Vast API is a PHP library maintained by Firaz Hosting, owned by Firaz Server, with @firazserver-cmd as the project owner. It allows hosting providers to perform VistaPanel tasks directly from their own portals.
 
 Vista Panel Vast API is a library that can call the VistaPanel interface used by MOFH and perform the necessary tasks without requiring VistaPanel to be opened directly.
